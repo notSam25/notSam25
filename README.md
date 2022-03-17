@@ -23,6 +23,6 @@
 
 <p>I'm a sophomore in highschool and I enjoy spending my time working with tech</p>
 
-- 🌱 I’m currently learning Web Development
+- 🌱 I’m currently learning web development/software reverse engineering
 - 💬 Ask me about BOOLEAN's
 - 📫 How to reach me: notSam#0133(Discord Tag)
