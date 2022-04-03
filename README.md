@@ -26,3 +26,4 @@
 - 🌱 I’m currently learning web development/software reverse engineering
 - 💬 Ask me about BOOLEAN's
 - 📫 How to reach me: notSam#0133(Discord Tag)
+- [![trophy](https://github-profile-trophy.vercel.app/?username=notSam25&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
