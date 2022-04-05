@@ -6,7 +6,7 @@
 
 
 ## Samuel Wiseman
-> Software Developer and Windows10 GUI Enjoyer
+> Software Developer and Windows10 GUI Enjoyer(Migrating to Linux)
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="github" src="https://img.shields.io/badge/-Github-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
@@ -24,6 +24,6 @@
 <p>I'm a sophomore in highschool and I enjoy spending my time working with tech</p>
 
 - 🌱 I’m currently learning web development/software reverse engineering
-- 💬 Ask me about BOOLEAN's
+- 💬 Ask me about SD Card SWAP space.
 - 📫 How to reach me: notSam#0133(Discord Tag)
 - [![trophy](https://github-profile-trophy.vercel.app/?username=notSam25&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
