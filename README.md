@@ -6,7 +6,8 @@
 
 
 ## Samuel Wiseman
-> Software Developer and Windows10 GUI Enjoyer(Migrating to Linux)
+> Software developer, and avid linux user.
+
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="github" src="https://img.shields.io/badge/-Github-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
