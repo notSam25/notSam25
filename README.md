@@ -22,7 +22,7 @@
 
 <h3>About Me</h2>
 
-<p>I'm a sophomore in highschool and I enjoy spending my time working with tech</p>
+<p>I'm a junior in highschool and I enjoy spending my time working with tech</p>
 
 - 🌱 I’m currently learning web development/software reverse engineering
 - 💬 Ask me about SD Card SWAP space.
