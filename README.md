@@ -6,7 +6,7 @@
 
 
 ## Samuel Wiseman
-> Software developer, and avid linux user.
+> Linux/Window abuser and software developer.
 
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
@@ -24,7 +24,7 @@
 
 <p>I'm a junior in highschool and I enjoy spending my time working with tech</p>
 
-- 🌱 I’m currently learning web development/software reverse engineering
+- 🌱 I’m currently learning Front/Back-end web development, and learning new programming languages!
 - 💬 Ask me about SD Card SWAP space.
 - 📫 How to reach me: notSam#0133(Discord Tag)
 - 👋 Checkout my website: https://bit.ly/3vtwKGT.
