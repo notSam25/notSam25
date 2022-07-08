@@ -6,7 +6,7 @@
 
 
 ## Samuel Wiseman
-> Linux/Window abuser and software developer.
+> Linux/Windows abuser and software developer.
 
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
