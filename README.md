@@ -22,9 +22,9 @@
 
 <h3>About Me</h2>
 
-<p>I'm a junior in highschool and I enjoy spending my time working with tech</p>
+<p>I'm a senior in highschool and I enjoy spending my time working with tech</p>
 
-- 🌱 I’m currently learning Front/Back-end web development, and learning new programming languages!
+- 🌱 I’m currently learning more about AI development and experimenting with making new websites!
 - 💬 Ask me about SD Card SWAP space.
 - 📫 How to reach me: notSam#0133(Discord Tag)
 - 👋 Checkout my website: https://bit.ly/3vtwKGT.
