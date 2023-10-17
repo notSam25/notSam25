@@ -24,8 +24,8 @@
 
 <p>I'm a senior in highschool and I enjoy spending my time working with tech</p>
 
-- 🌱 I’m currently learning more about AI development and experimenting with making new websites!
+- 🌱 I’m currently learning more about full-stack development!
 - 💬 Ask me about SD Card SWAP space.
-- 📫 How to reach me: notSam#0133(Discord Tag)
+- 📫 How to reach me: notSam25(Discord)
 - 👋 Checkout my website: https://bit.ly/3vtwKGT.
 [![trophy](https://github-profile-trophy.vercel.app/?username=notSam25&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
