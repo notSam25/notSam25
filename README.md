@@ -22,10 +22,10 @@
 
 <h3>About Me</h2>
 
-<p>I'm a senior in highschool and I enjoy spending my time working with tech</p>
+<p>I'm a freshman in college @ Mizzou and I enjoy spending my time working with tech</p>
 
-- 🌱 I’m currently learning more about full-stack development!
-- 💬 Ask me about SD Card SWAP space.
+- 🌱 I’m currently learning more about software reverse engineering
+- 💬 Ask me about SD Card SWAP space
 - 📫 How to reach me: notSam25(Discord)
 - 👋 Checkout my website: https://bit.ly/3vtwKGT.
 [![trophy](https://github-profile-trophy.vercel.app/?username=notSam25&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
