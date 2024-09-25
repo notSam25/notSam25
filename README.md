@@ -22,10 +22,10 @@
 
 <h3>About Me</h2>
 
-<p>I'm a freshman in college @ Mizzou and I enjoy spending my time working with tech</p>
+<p>I'm a freshman in college @ Mizzou and I enjoy spending my time working with tech. I spend my time creating websites, custom software, and managing full-stack deployments for employers. If you want to learn more or work along side me, contact me!</p>
 
-- 🌱 I’m currently learning more about software reverse engineering
-- 💬 Ask me about SD Card SWAP space
-- 📫 How to reach me: notSam25(Discord)
+- 🌱 I’m currently studying computer science at Mizzou and selling my skills to customers!
+- 💬 Ask me about my recent projects
+- 📫 How to reach me: notsam.25(Discord)
 - 👋 Checkout my website: https://bit.ly/3vtwKGT.
 [![trophy](https://github-profile-trophy.vercel.app/?username=notSam25&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
