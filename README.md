@@ -26,15 +26,15 @@
 
 ## 📖 About Me  
 
-Hi! I’m Samu, a junior at **Mizzou** studying **Computer Science**.  
+Hi! I’m Sam, a junior at **Mizzou** studying **Computer Science**.  
 I enjoy building things with tech—from websites and custom software to full-stack deployments.  
 
 If you’d like to collaborate or learn more, feel free to reach out!  
 
-- 🌱 Currently learning to facilitate shareholder value increases.  
+- 🌱 Currently facilitating shareholder value increases.  
 - 💬 Ask me about my recent projects. 
 - 📫 Reach me on Discord: **notsam.25**  
-- 👋 Check out my website: [My Portfolio](https://www.linkedin.com/in/samuel-wiseman-work/)  
+- 👋 Check out my LinkedIn: [My Portfolio](https://www.linkedin.com/in/samuel-wiseman-work/)  
 
 ---
 
