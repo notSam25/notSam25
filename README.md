@@ -25,7 +25,7 @@ struct Sam {
     std::string os       = "Linux && Windows";   // yes, both. no, I won't pick.
 
     std::vector<std::string> buildsStuffLike = {
-        "websites", "custom software", "full-stack deployments"
+        "High-Performance Software", "Exploitation Frameworks", "Full-Stack Deployments"
     };
 
     std::string currentQuest = "facilitating shareholder value increases 📈";
@@ -37,7 +37,7 @@ struct Sam {
 
 ---
 
-### 🧰 Toolbox
+### Toolbox
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,nodejs,react,html,npm&theme=dark" />
@@ -50,7 +50,7 @@ struct Sam {
 </p>
 
 
-### 📡 Open a connection
+### Open a connection
 
 ```bash
 $ ping sam
