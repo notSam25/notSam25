@@ -1,42 +1,61 @@
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=notSam25&title_color=FD9047&icon_color=FD9047&text_color=FFFFFF&custom_title=My+GitHub+Stats&show_icons=true&theme=tokyonight" />
+<!-- ============ HEADER ============ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:FD9047&height=180&section=header&text=Samuel%20Wiseman&fontColor=FFFFFF&fontSize=48&fontAlignY=35&desc=builds%20things%20%E2%80%A2%20breaks%20things%20%E2%80%A2%20fixes%20them%20again&descAlignY=58&descSize=16" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=notSam25&custom_title=Top+Languages&show_icons=true&theme=tokyonight" />
+<p align="center">
+  <a href="https://github.com/notSam25">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=FD9047&center=true&vCenter=true&width=520&lines=%24+whoami;CS+student+%40+Mizzou+%F0%9F%90%AF;Linux+%26+Windows+tinkerer;Full-stack+dev+who+ships+to+prod;Currently+increasing+shareholder+value" alt="Typing intro" />
+  </a>
+</p>
 
----
-
-# 👨‍💻Samuel Wiseman  
-> Linux/Windows tinkerer • Software Developer • Tech Enthusiast  
-
----
-
-## 🚀 Tech Stack  
-<p>
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="GitHub Actions" src="https://img.shields.io/badge/-GitHub-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-  <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white" />
-  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
-  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/samuel-wiseman-work/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/Discord-notsam.25-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  <img src="https://komarev.com/ghpvc/?username=notSam25&style=for-the-badge&color=FD9047&label=profile+views" />
 </p>
 
 ---
 
-## 📖 About Me  
+### `> cat about_sam.cpp`
 
-Hi! I’m Sam, a junior at **Mizzou** studying **Computer Science**.  
-I enjoy building things with tech—from websites and custom software to full-stack deployments.  
+```cpp
+struct Sam {
+    std::string school   = "University of Missouri (Mizzou)";
+    std::string major    = "Computer Science";
+    std::string role     = "Software Developer";
+    std::string os       = "Linux && Windows";   // yes, both. no, I won't pick.
 
-If you’d like to collaborate or learn more, feel free to reach out!  
+    std::vector<std::string> buildsStuffLike = {
+        "websites", "custom software", "full-stack deployments"
+    };
 
-- 🌱 Currently facilitating shareholder value increases.  
-- 💬 Ask me about my recent projects. 
-- 📫 Reach me on Discord: **notsam.25**  
-- 👋 Check out my LinkedIn: [My Portfolio](https://www.linkedin.com/in/samuel-wiseman-work/)  
+    std::string currentQuest = "facilitating shareholder value increases 📈";
+    std::string askMeAbout   = "my recent projects";
+
+    bool openToCollab() const { return true; }
+};
+```
 
 ---
 
-## 🏆 Achievements  
-[![trophy](https://github-profile-trophy.vercel.app/?username=notSam25&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
+### 🧰 Toolbox
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,nodejs,react,html,npm&theme=dark" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=git,githubactions,heroku,linux,windows&theme=dark" />
+</p>
+
+<p align="center">
+  <sub>+ Insomnia for poking at APIs until they talk</sub>
+</p>
+
+
+### 📡 Open a connection
+
+```bash
+$ ping sam
+PING sam: reachable via Discord (notsam.25) and LinkedIn
+64 bytes from sam: collab=welcome time=fast
+```
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FD9047,100:1a1b27&height=100&section=footer" />
